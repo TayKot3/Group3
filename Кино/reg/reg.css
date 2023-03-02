@@ -1,0 +1,254 @@
+.logo_logo {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  margin-left: 165px;
+  border-radius: 10px;
+  margin-top: 13px;
+}
+
+.logo_background {
+  position: absolute;
+  width: 110px;
+  height: 35px;
+  margin-top: 14px;
+  margin-left: 170px;
+}
+
+.header_logo {
+  cursor: pointer;
+}
+
+.menu {
+  position: absolute;
+  font-size: x-large;
+  font-family: system-ui;
+  margin-left: 300px;
+}
+
+.one {
+  position: absolute;
+  margin-left: 800px;
+  margin-top: 20px;
+}
+
+.two {
+  position: absolute;
+  margin-left: 800px;
+  margin-top: 31px;
+}
+
+.three {
+  position: absolute;
+  margin-left: 800px;
+  margin-top: 42px;
+}
+
+.reg {
+  position: absolute;
+  background-color: aqua;
+  border-radius: 10px;
+  font-size: x-large;
+  border: none;
+  font-family: system-ui;
+  cursor: pointer;
+  margin-left: 950px;
+  margin-top: 15px;
+}
+
+.reg:hover {
+  font-size: x-large;
+  border: none;
+  font-family: system-ui;
+  background-color: aquamarine;
+}
+
+.header {
+  width: 1362px;
+  height: 66px;
+  background: linear-gradient(90deg, rgb(6, 82, 108) 37%, rgb(6, 82, 108) 68%);
+}
+
+.logo {
+  position: absolute;
+  font-size: x-large;
+  margin-left: 200px;
+  margin-top: 17px;
+  font-family: system-ui;
+  border-radius: 15px;
+}
+
+.ua_tb {
+  position: absolute;
+  font-size: x-large;
+  margin-left: 300px;
+  margin-top: 17px;
+  font-family: system-ui;
+}
+
+.tb {
+  position: absolute;
+  font-size: x-large;
+  margin-left: 400px;
+  margin-top: 17px;
+  font-family: system-ui;
+}
+
+.films {
+  position: absolute;
+  font-size: x-large;
+  margin-left: 450px;
+  margin-top: 17px;
+  font-family: system-ui;
+}
+
+.mult {
+  position: absolute;
+  font-size: x-large;
+  margin-left: 550px;
+  margin-top: 17px;
+  font-family: system-ui;
+}
+
+.serials {
+  position: absolute;
+  font-size: x-large;
+  margin-left: 670px;
+  margin-top: 17px;
+  font-family: system-ui;
+}
+
+.body {
+  position: absolute;
+  height: 1311px;
+  width: 1362px;
+  background: linear-gradient(90deg, rgb(117, 203, 255) 37%, rgb(95, 123, 128) 86%, rgb(87, 93, 81) 100%);
+  margin-top: 66px;
+}
+
+.reg_background {
+  position: absolute;
+  width: 874px;
+  height: 622px;
+  background: linear-gradient(90deg, rgb(6, 82, 108) 37%, rgb(6, 82, 108) 68%);
+  margin-top: 150px;
+  margin-left: 210px;
+}
+
+.reg_btn {
+  width: 517px;
+  height: 91px;
+  border: none;
+  background: aqua;
+  font-size: x-large;
+  border-radius: 25px;
+  margin-left: 180px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.reg_btn:hover {
+  background-color: aquamarine;
+}
+
+.reg_gmail {
+  width: 550px;
+  height: 48px;
+  margin-top: 50px;
+  margin-left: 160px;
+  outline: none;
+}
+
+.reg_passw {
+  width: 550px;
+  height: 48px;
+  margin-top: 70px;
+  margin-left: 160px;
+  outline: none;
+}
+
+.on_btn {
+  width: 327px;
+  height: 92px;
+  border: none;
+  background: aqua;
+  font-size: x-large;
+  border-radius: 25px;
+  margin-left: 280px;
+  margin-top: 110px;
+  cursor: pointer;
+}
+
+.on_btn:hover {
+  background: aquamarine;
+}
+
+.down {
+  position: absolute;
+  width: 1362px;
+  height: 701px;
+  background: linear-gradient(90deg, rgb(6, 82, 108) 37%, rgb(6, 82, 108) 68%);
+  margin-top: 900px;
+}
+
+.rozdel {
+  font-size: xx-large;
+  color: white;
+  margin-left: 50px;
+}
+
+.stolb {
+  list-style: none;
+  padding: auto;
+  margin-left: 100px;
+  font-size: xx-large;
+  margin: 50px;
+}
+
+.play {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 15px;
+}
+
+.market {
+  margin-left: 40px;
+  cursor: pointer;
+}
+
+.stolb_2 {
+  position: absolute;
+  font-size: xx-large;
+  list-style: none;
+  margin-left: 250px;
+  margin-top: 195px;
+}
+
+.what {
+  position: absolute;
+  font-size: xx-large;
+  margin-left: 500px;
+}
+
+.company {
+  color: white;
+}
+
+.company_holy {
+  font-family: cursive;
+}
+
+.company_ukr {
+  margin-left: 660px;
+  margin-top: 175px;
+  font-size: xx-large;
+  position: absolute;
+}
+
+.stolb_3 {
+  position: absolute;
+  font-size: xx-large;
+  list-style: none;
+  margin-left: 900px;
+  margin-top: 150px;
+}/*# sourceMappingURL=reg.css.map */
